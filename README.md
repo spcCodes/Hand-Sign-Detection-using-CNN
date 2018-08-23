@@ -13,7 +13,7 @@ The images are trained using CNN and the forward propagation uses the following 
 
 CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED
 
-#The entire project has been explained in detail in the python notebook HandSignCnn.ipynb 
+# The entire project has been explained in detail in the python notebook HandSignCnn.ipynb 
 
 Dataset used: Signs \
 Language : Python \
