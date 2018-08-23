@@ -16,7 +16,8 @@ CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNEC
 The entire project has been explained in detail in the python notebook HandSignCnn.ipynb \
 
 Dataset used: Signs \
-Language : Python Packages : sklearn , matplotlib , tensorflow
+Language : Python \
+Packages : sklearn , matplotlib , tensorflow
 
 Type of Problem: Classification using CNN (Supervised learning) \ 
 
